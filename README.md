@@ -15,3 +15,4 @@ Our dataset is compiled from publicly available data from nature.com and encompa
 ## 3. Data Structure
 
 The dataset consists of 4 tables containing information regarding carbon emissions generated during the production of goods.
+ ![](images/Datastructure.png)
